@@ -52,6 +52,8 @@ refresh lock handed from the request to a queued job.
 
 Measured in its own test suite, not claimed. PHPStan level 8, 97 tests, CI across 8 Laravel majors.
 
+Write-up: [Cache stampedes in Laravel: why a lock isn't enough](https://medium.com/@mt.elafifi/cache-stampedes-in-laravel-why-a-lock-isnt-enough-2111080ad4fc).
+
 ```console
 $ cat principles.md
 ```
